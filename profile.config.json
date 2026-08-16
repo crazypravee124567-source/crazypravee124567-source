@@ -1,69 +1,97 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "PRAVEEN KUMAR G",
+    "username": "crazypravee124567-source",
+    "headline": "Full-Stack Web Developer",
+    "affiliation": "PPG Institute of Technology",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "status": "Building full-stack web apps",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Computer Science Engineering student at PPG Institute of Technology, building full-stack web applications with the MERN stack.",
+      "Focused on problem-solving, responsive UX design, and building real-world solutions in web development and healthcare tech."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Web Development",
+    "direction": "Skilled Software Engineer",
+    "themes": "Frontend / UX / Performance",
+    "narrative": "I focus on converting concepts into functional, user-friendly applications while continuously improving problem-solving skills through practice, freelancing, and impactful project builds."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Full-Stack Web Dev",
+      "description": "Building complete web applications using the MERN stack and modern web tools."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Problem Solving",
+      "description": "Converting requirements into functional code through structured learning and practice."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Healthcare Tech",
+      "description": "Interested in building impactful software solutions for real-world healthcare challenges."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Paalam System",
+      "url": "https://github.com/Build-with-AI-Code-for-Communities/health-team-284-the-conquerors",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Healthcare Tech",
+      "summary": "Offline-first stock coordination system connecting rural PHC clusters and bridging medicine inventory gaps.",
+      "heroLabel": "PHC Medicine System"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Portfolio Site",
+      "url": "https://github.com/crazypravee124567-source/praveen-portfolio2",
+      "homepage": "https://praveen-portfolio2-o75d.vercel.app/",
+      "focus": "Personal Portfolio",
+      "summary": "Interactive portfolio showcasing full-stack web development projects, freelance work, and coding journey.",
+      "heroLabel": "Live portfolio"
+    },
+    {
+      "name": "Food Delivery App",
+      "url": "https://github.com/crazypravee124567-source",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Food Delivery Platform",
+      "summary": "Full-stack food delivery platform built with MERN stack featuring user authentication and restaurant browsing.",
+      "heroLabel": "MERN platform"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Vite",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "HTML5",
+    "CSS3",
+    "Git",
+    "Vercel"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "crazypravee124567-source",
+      "url": "https://github.com/crazypravee124567-source",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Portfolio",
+      "value": "praveen-portfolio2",
+      "url": "https://praveen-portfolio2-o75d.vercel.app/",
+      "logo": "vercel",
+      "color": "000000"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "praveen-kumar-g",
+      "url": "https://www.linkedin.com/in/praveen-kumar-g-854566332",
+      "logo": "linkedin",
+      "color": "0A66C2"
     }
   ],
   "activity": {
@@ -71,7 +99,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building clean, thoughtful web applications and learning by shipping real projects."
 }
