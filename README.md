@@ -48,6 +48,7 @@ I focus on converting concepts into functional, user-friendly applications while
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 29, 2026: created a branch in [crazypravee124567-source/event-management-system](https://github.com/crazypravee124567-source/event-management-system).
 - Aug 16, 2026: pushed 1 commit to [crazypravee124567-source/crazypravee124567-source](https://github.com/crazypravee124567-source/crazypravee124567-source).
 - Aug 16, 2026: created a branch in [crazypravee124567-source/crazypravee124567-source](https://github.com/crazypravee124567-source/crazypravee124567-source).
 - Aug 16, 2026: pushed 1 commit to [crazypravee124567-source/praveen-dev](https://github.com/crazypravee124567-source/praveen-dev).
